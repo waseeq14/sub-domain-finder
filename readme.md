@@ -1,4 +1,3 @@
-```markdown
 # Sub Domain Finder
 
 A comprehensive tool for sub-domain enumeration and web information gathering. This script provides functionalities to gather sub-domains using a wordlist and APIs like VirusTotal, DNSDumpster, and SecurityTrails.
@@ -52,7 +51,6 @@ A comprehensive tool for sub-domain enumeration and web information gathering. T
 ```sh
 python sub_domain_finder.py --domain example.com --wordlist wordlist.txt --output output.txt
 ```
-
 #### Sub-domain Enumeration Using API
 
 ```sh
@@ -99,4 +97,3 @@ You can choose to clear all API keys or selectively remove keys for specific ser
 ## Output
 
 The results of the sub-domain enumeration will be printed to the console and optionally saved to an output file if specified using the `--output` argument.
-```
