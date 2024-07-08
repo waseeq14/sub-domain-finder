@@ -23,7 +23,7 @@ A comprehensive tool for sub-domain enumeration and web information gathering. T
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/sub-domain-finder.git
+    git clone https://github.com/waseeq14/sub-domain-finder.git
     cd sub-domain-finder
     ```
 
